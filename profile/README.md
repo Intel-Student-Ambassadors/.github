@@ -1,0 +1,3 @@
+## Hey, this is us - Intel Student Ambassadors VITC 👋
+
+Yes, we are building an Intel enthusiast community where individuals join to learn more about Intel Technologies, initiatives, tools and Programs. In fact, we’ve been doing this since **January 9th, 2022**. That's when we made and finalised our team. Since then we have conducted an event on **January 14th, 2022**, attended by roughly over **110 studentd** 🤯. But that's just us. We are proud to be part of the Intel Team as Student Ambassador and Core team members. We are highly excited and enthusiastic to conduct more and more events, informative sessions, hackathons, competitions, fun tasks, etc.🪐. Yes, [Is that enough?](https://github.com/Intel-Student-Ambassadors/) - probably for now Yes!!
